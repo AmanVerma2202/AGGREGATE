@@ -28,12 +28,15 @@ See `readme.md` for ways to get started.
 
 
 ## Photos
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(48).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(49).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(50).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(51).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(52).png)
-![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(53).png)
+![Alt text of the image](https://github.com/AmanVerma2202/AGGREGATE/blob/main/Screenshot%20(54).png)
+![Alt text of the image](https://github.com/AmanVerma2202/AGGREGATE/blob/main/Screenshot%20(55).png)
+![Alt text of the image](https://github.com/AmanVerma2202/AGGREGATE/blob/main/Screenshot%20(56).png)
+![Alt text of the image](https://github.com/AmanVerma2202/AGGREGATE/blob/main/Screenshot%20(57).png)
+![Alt text of the image](https://github.com/AmanVerma2202/AGGREGATE/blob/main/Screenshot%20(58).png)
+![Alt text of the image](https://github.com/AmanVerma2202/AGGREGATE/blob/main/Screenshot%20(59).png)
+![Alt text of the image](https://github.com/AmanVerma2202/AGGREGATE/blob/main/Screenshot%20(60).png)
+![Alt text of the image](https://github.com/AmanVerma2202/AGGREGATE/blob/main/Screenshot%20(61).png)
+![Alt text of the image](https://github.com/AmanVerma2202/AGGREGATE/blob/main/Screenshot%20(62).png)
 
 ## Tech Stack
 
