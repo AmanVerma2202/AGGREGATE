@@ -4,7 +4,7 @@ Deployed Link:https://aggregate-f-7is6.vercel.app/
 # Aggregate-Web Application for Farmers
 
 A cutting-edge agricultural application offering data-driven crop recommendations based on soil’s
-unique NPK values, which achieved a 25% increase in crop yields and an 18% reduction in soil erosion.
+unique NPK values, which achieved a 25% increase in crop yields and maintained soil fertility.
 
 
 ## Acknowledgements
